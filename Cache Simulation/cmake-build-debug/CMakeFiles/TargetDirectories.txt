@@ -1,0 +1,3 @@
+C:/Users/Dilyar/CLionProjects/Cache Simulation/cmake-build-debug/CMakeFiles/Cache_Simulation.dir
+C:/Users/Dilyar/CLionProjects/Cache Simulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dilyar/CLionProjects/Cache Simulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
